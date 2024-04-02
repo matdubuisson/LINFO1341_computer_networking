@@ -1,0 +1,43 @@
+QUERY NAME,RESPONSE NAME,IPV4,IPV6,SOA,CNAME
+drive.google.com , drive.google.com , 142.251.36.46 , 2a00:1450:400e:810::200e , ns1.google.com , None
+accounts.google.com , google.com , 142.250.102.84 , 2a00:1450:4025:402::54 , ns1.google.com , None
+www.gstatic.com , www.gstatic.com ,142250179163, 2a00:1450:400e:802::2003 , ns1.google.com , None
+content-autofill.googleapis.com , content-autofill.googleapis.com , 142.251.39.106 , 2a00:1450:400e:811::200a , ns1.google.com , None
+www3.l.google.com , l.google.com ,172217168238, None , ns1.google.com , None
+optimizationguide-pa.googleapis.com , googleapis.com , 216.58.214.10 , 2a00:1450:400e:80f::200a , ns1.google.com , None
+play.google.com , google.com , 142.251.36.46 , 2a00:1450:400e:810::200e , ns1.google.com , None
+accounts.google.be , accounts.google.be , 142.250.27.94 , 2a00:1450:400c:c06::5e , ns1.google.com , accounts-cctld.l.google.com
+accounts-cctld.l.google.com , l.google.com , None , None , ns1.google.com , None
+fonts.googleapis.com , fonts.googleapis.com , 216.58.208.106 , 2a00:1450:400e:80e::200a , ns1.google.com , None
+apis.google.com , apis.google.com , 216.58.208.110 , 2a00:1450:400e:80e::200e , ns1.google.com , plus.l.google.com
+plus.l.google.com , l.google.com , None , 2a00:1450:400e:80e::200e , ns1.google.com , None
+ssl.gstatic.com , gstatic.com ,142250179131, 2a00:1450:400e:801::2003 , ns1.google.com , None
+lh2.l.google.com , l.google.com , None , None , ns1.google.com , None
+lh3.googleusercontent.com , lh3.googleusercontent.com , 142.251.36.33 , 2a00:1450:400e:810::2001 , ns1.google.com , googlehosted.l.googleusercontent.com
+googlehosted.l.googleusercontent.com , l.googleusercontent.com , None , None , ns1.google.com , None
+drive-thirdparty.googleusercontent.com , drive-thirdparty.googleusercontent.com , 142.251.36.33 , 2a00:1450:400e:810::2001 , ns1.google.com , googlehosted.l.googleusercontent.com
+clients6.google.com , clients6.google.com , 142.251.209.46 , 2a00:1450:400e:800::200e , ns1.google.com , clients.l.google.com
+clients.l.google.com , l.google.com , None , None , ns1.google.com , None
+fonts.gstatic.com , fonts.gstatic.com ,142250179163, 2a00:1450:400e:802::2003 , ns1.google.com , None
+drivefrontend-pa.clients6.google.com , drivefrontend-pa.clients6.google.com ,142250179170, 2a00:1450:400e:80d::200a , ns1.google.com , None
+drive.fife.usercontent.google.com , google.com , 142.251.36.1 , 2a00:1450:400e:80f::2001 , ns1.google.com , None
+people-pa.clients6.google.com , people-pa.clients6.google.com , 142.251.36.10 , 2a00:1450:4002:809::200a , ns1.google.com , None
+ogads-pa.clients6.google.com , ogads-pa.clients6.google.com ,172217168202, 2a00:1450:400e:800::200a , ns1.google.com , None
+waa-pa.clients6.google.com , waa-pa.clients6.google.com ,142250179138, 2a00:1450:400e:803::200a , ns1.google.com , None
+www.google.com , www.google.com , 216.58.208.100 , 2a00:1450:400e:80e::2004 , None , None
+addons-pa.clients6.google.com , google.com , 142.251.209.10 , 2a00:1450:4002:809::200a , ns1.google.com , None
+peoplestack-pa.clients6.google.com , google.com , 142.251.36.10 , 2a00:1450:400e:805::200a , ns1.google.com , None
+peoplestackwebexperiments-pa.clients6.google.com , google.com , 142.251.36.10 , 2a00:1450:400e:803::200a , ns1.google.com , None
+passwordsleakcheck-pa.googleapis.com , googleapis.com , 142.251.36.10 , 2a00:1450:400e:810::200a , ns1.google.com , None
+docs.google.com , google.com , 142.251.36.14 , 2a00:1450:400e:80f::200e , ns1.google.com , None
+contacts.google.com , contacts.google.com , 216.58.208.110 , 2a00:1450:400e:80e::200e , ns1.google.com , plus.l.google.com
+signaler-pa.clients6.google.com , google.com , 172.217.23.202 , 2a00:1450:400e:810::200a , ns1.google.com , None
+ogs.google.com , ogs.google.com ,172217168238, 2a00:1450:4002:403::200e , ns1.google.com , www3.l.google.com
+update.googleapis.com , googleapis.com ,142250179131, 2a00:1450:400e:801::2003 , ns1.google.com , None
+drive.usercontent.google.com , google.com , 142.251.39.97 , 2a00:1450:400e:811::2001 , ns1.google.com , None
+blobcomments-pa.clients6.google.com , blobcomments-pa.clients6.google.com , 142.251.36.10 , 2a00:1450:400e:805::200a , ns1.google.com , None
+safebrowsing.googleapis.com , googleapis.com ,142250179202, 2a00:1450:400e:803::200a , ns1.google.com , None
+lh3.google.com , lh3.google.com , 142.251.36.14 , 2a00:1450:400e:80f::200e , ns1.google.com , lh2.l.google.com
+espresso-pa.clients6.google.com , espresso-pa.clients6.google.com , 142.251.36.42 , 2a00:1450:400e:80f::200a , ns1.google.com , None
+accounts.youtube.com , accounts.youtube.com ,172217168238, 2a00:1450:400e:80d::200e , ns1.google.com , www3.l.google.com
+translate.googleapis.com , translate.googleapis.com , 142.251.39.106 , 2a00:1450:4002:414::200a , ns1.google.com , None

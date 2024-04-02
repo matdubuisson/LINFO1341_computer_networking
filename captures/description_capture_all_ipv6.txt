@@ -1,0 +1,15 @@
+email: 24
+password: 31
+menu: 35-40
+import: 60-65
+export: 85-90
+voir txt: 115-120
+new doc: 130-140
+close doc: 145
+reload: 158
+deconnection: 174
+close: 186
+
+
+20-30 : connexion
+55-75
